@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8pT0sNQuu5zWbO7ZpOIzwRGTOAPYuiLL+L+UP16NL3zkZ2IzPEFOPS3hF48A2orxXK9fxNqtOA16h++cv9Jcjw==",
+  "success": true,
+  "projectFilePath": "C:\\BookApp.API\\BookApp.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sauni Weerasinghe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.16\\microsoft.aspnetcore.openapi.8.0.16.nupkg.sha512",
+    "C:\\Users\\Sauni Weerasinghe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Sauni Weerasinghe\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Sauni Weerasinghe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Sauni Weerasinghe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Sauni Weerasinghe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Sauni Weerasinghe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
